@@ -1,7 +1,7 @@
 # Brat2BIO
 A simple script that convert Brat format to BIO format
 
- ***Conversion code adapted from [GithubGist](https://gist.github.com/thatguysimon/6caa622be083f97b8c5c9a10478ba058) from [thatguysimon](https://gist.github.com/thatguysimon)***
+ ***Conversion code adapted from [GithubGist](https://gist.github.com/thatguysimon/6caa622be083f97b8c5c9a10478ba058) by [thatguysimon](https://gist.github.com/thatguysimon)***
 
 ___
 ## What this git repo for?
@@ -40,7 +40,7 @@ re-training-data.corp | origional data corpus|
 
 
 ## (Optional) Ready to training Deep learning models?
-The deomo.ipynb provide a simple data preparation pipeline that separate the data into sentencs and label:
+The demo.ipynb provide a simple data preparation pipeline that separate the data into sentencs and label:
 
 - Sentences containing a list of tokenized sentences
 - Lable containing a list of corresponding IOB
