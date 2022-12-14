@@ -10,7 +10,7 @@ This scripts provide a simple tools to convert Brat Standoff format to BIO forma
 what's different:
 - [x] support multiple span of text from a single entity
 - [x] save to sentense level BIO csv file
-- [ ] visualize the output annotations (e.g. distribution of the sentence length, entity distribution)
+- [x] visualize the output annotations (e.g. distribution of the sentence length, entity distribution)
 - [ ] multi-process speed up
 
 ___
