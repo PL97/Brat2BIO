@@ -1,3 +1,5 @@
 output/
 nohup.out
 .ipynb*
+custom_data/
+custom_output/
